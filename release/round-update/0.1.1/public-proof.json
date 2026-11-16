@@ -1,0 +1,25 @@
+{
+  "name": "Rally",
+  "repo": "rally-watch",
+  "version": "0.1.1",
+  "url": "https://apps.repebble.com/dfe5a3d1e2e44b5ebec727a7",
+  "pbw_exact": true,
+  "native_round_pixels_exact": true,
+  "matched_round_urls": [
+    "https://assets.repebble.com/screenshots/dfe5a3d1e2e44b5ebec727a7/chalk/5b438b12-512d-4f91-ad60-0dfe9cbb25f9.png",
+    "https://assets.repebble.com/screenshots/dfe5a3d1e2e44b5ebec727a7/chalk/f11b089b-eaa0-4471-9beb-c5fc7740e94f.png",
+    "https://assets.repebble.com/screenshots/dfe5a3d1e2e44b5ebec727a7/gabbro/332a1470-d648-4aa7-9202-34a28f581b19.png",
+    "https://assets.repebble.com/screenshots/dfe5a3d1e2e44b5ebec727a7/gabbro/577e1fb8-7980-49fe-9ef7-c7f19fcdd9d3.png"
+  ],
+  "existing_gallery_preserved": true,
+  "animated_preview_first": true,
+  "screenshots": [
+    "https://assets.repebble.com/screenshots/dfe5a3d1e2e44b5ebec727a7/emery/1adb978d-7ab3-4042-b603-afb9aef4b8d2.gif",
+    "https://assets.repebble.com/screenshots/dfe5a3d1e2e44b5ebec727a7/emery/446115fa-4b0d-40d4-98c9-c54729734d02.png",
+    "https://assets.repebble.com/screenshots/dfe5a3d1e2e44b5ebec727a7/emery/2466511f-95d1-4983-8911-d58a049e4456.png",
+    "https://assets.repebble.com/screenshots/dfe5a3d1e2e44b5ebec727a7/emery/69773ef6-a8d8-49db-97c5-02d3e3694e5b.png",
+    "https://assets.repebble.com/screenshots/dfe5a3d1e2e44b5ebec727a7/emery/e60f1cea-9354-42c2-8fc8-e84b02e16c56.png",
+    "https://assets.repebble.com/screenshots/dfe5a3d1e2e44b5ebec727a7/chalk/5b438b12-512d-4f91-ad60-0dfe9cbb25f9.png",
+    "https://assets.repebble.com/screenshots/dfe5a3d1e2e44b5ebec727a7/gabbro/332a1470-d648-4aa7-9202-34a28f581b19.png"
+  ]
+}

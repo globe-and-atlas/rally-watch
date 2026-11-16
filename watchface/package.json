@@ -1,0 +1,40 @@
+{
+  "name": "rally-watch",
+  "version": "0.1.1",
+  "private": true,
+  "author": "Daniel Bally",
+  "keywords": [
+    "pebble-app"
+  ],
+  "pebble": {
+    "displayName": "Rally",
+    "uuid": "a884def6-0e91-4d22-9cbe-e7a8fcde3bec",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "emery",
+      "chalk",
+      "gabbro"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "capabilities": [
+      "configurable"
+    ],
+    "messageKeys": [
+      "Palette",
+      "Background",
+      "Foreground",
+      "Accent",
+      "TimeFormat",
+      "DateFormat"
+    ],
+    "resources": {
+      "media": []
+    }
+  },
+  "dependencies": {
+    "@rebble/clay": "1.1.0"
+  }
+}

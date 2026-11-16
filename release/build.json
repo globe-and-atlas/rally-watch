@@ -1,0 +1,36 @@
+{
+  "name": "Rally",
+  "repo": "rally-watch",
+  "app_id": "dfe5a3d1e2e44b5ebec727a7",
+  "version": "0.1.1",
+  "uuid": "a884def6-0e91-4d22-9cbe-e7a8fcde3bec",
+  "url": "https://apps.repebble.com/dfe5a3d1e2e44b5ebec727a7",
+  "pbw_sha256": "8cd3d8976a5d0dd20ed3b69ea56c09ccaeaddf784feb7adfb078e8eccf7041a1",
+  "public_verified": true,
+  "screenshot_results": {
+    "uploaded": [
+      {
+        "platform": "chalk",
+        "filename": "chalk_01_round.png",
+        "url": "/api/assets/screenshots/dfe5a3d1e2e44b5ebec727a7/chalk/5b438b12-512d-4f91-ad60-0dfe9cbb25f9.png"
+      },
+      {
+        "platform": "chalk",
+        "filename": "chalk_02_round.png",
+        "url": "/api/assets/screenshots/dfe5a3d1e2e44b5ebec727a7/chalk/f11b089b-eaa0-4471-9beb-c5fc7740e94f.png"
+      },
+      {
+        "platform": "gabbro",
+        "filename": "gabbro_01_round.png",
+        "url": "/api/assets/screenshots/dfe5a3d1e2e44b5ebec727a7/gabbro/332a1470-d648-4aa7-9202-34a28f581b19.png"
+      },
+      {
+        "platform": "gabbro",
+        "filename": "gabbro_02_round.png",
+        "url": "/api/assets/screenshots/dfe5a3d1e2e44b5ebec727a7/gabbro/577e1fb8-7980-49fe-9ef7-c7f19fcdd9d3.png"
+      }
+    ],
+    "failed": []
+  },
+  "published": true
+}

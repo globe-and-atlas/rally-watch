@@ -46,3 +46,12 @@ build/
 
 # Pebble / waf (the lock file stores the whole shell environment)
 .lock-waf*
+
+node_modules/
+node_modules_bad/
+dist/
+.DS_Store
+.tmp/
+.env
+.lock-waf*
+watchface/build/

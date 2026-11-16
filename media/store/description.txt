@@ -1,0 +1,14 @@
+Scoreboard time, at a glance.
+
+Rally puts the hour and minute in two large panels, with tall athletic numerals, a date, and a centered battery indicator.
+
+Make it yours:
+- Six palettes: Navy & orange, Red, Field green, Plum, Ice, and Monochrome.
+- Custom face, panel, and numeral colors.
+- Watch default, 12-hour, or 24-hour time, with AM/PM in 12-hour mode.
+- Optional date: weekday/month/day, YYYY-MM-DD, MM/DD/YYYY, or DD/MM/YYYY.
+- Live battery icon and percentage.
+
+The animated preview cycles through the six palettes at a fixed sample time. Choose your preferred colors in settings; the watchface keeps that palette.
+
+For Pebble Time 2.

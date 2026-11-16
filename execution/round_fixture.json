@@ -1,0 +1,10 @@
+{
+  "prefix": "RALLY",
+  "flags": {
+    "RALLY_FIXTURE": "1",
+    "RALLY_HOUR": "10",
+    "RALLY_MINUTE": "8",
+    "RALLY_SECOND": "30",
+    "RALLY_BATTERY": "82"
+  }
+}

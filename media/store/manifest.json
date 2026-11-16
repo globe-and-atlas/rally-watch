@@ -1,0 +1,39 @@
+{
+  "name": "Rally",
+  "screenshots": [
+    "emery_01_palettes.gif",
+    "emery_02_palette.png",
+    "emery_03_palette.png",
+    "emery_04_palette.png",
+    "emery_05_palette.png"
+  ],
+  "frame_sources": [
+    "rally-default.png",
+    "rally-palette-1.png",
+    "rally-palette-2.png",
+    "rally-palette-3.png",
+    "rally-palette-4.png",
+    "rally-palette-5.png"
+  ],
+  "palette_names": [
+    "Navy & orange",
+    "Red",
+    "Field green",
+    "Plum",
+    "Ice",
+    "Monochrome"
+  ],
+  "durations_ms": [
+    3000,
+    2500,
+    2500,
+    2500,
+    2500,
+    2500
+  ],
+  "size": [
+    200,
+    228
+  ],
+  "gif_sha256": "c2662c586f4c45538102832209bceb54c14a32dfd835bb4a7b0a58b24479671a"
+}

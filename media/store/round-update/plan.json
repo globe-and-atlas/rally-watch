@@ -1,0 +1,27 @@
+{
+  "repo": "rally-watch",
+  "name": "Rally",
+  "version": "0.1.1",
+  "uuid": "a884def6-0e91-4d22-9cbe-e7a8fcde3bec",
+  "artifact": "/Users/danielbally/Git/rally-watch/dist/Rally-0.1.1.pbw",
+  "sha256": "8cd3d8976a5d0dd20ed3b69ea56c09ccaeaddf784feb7adfb078e8eccf7041a1",
+  "platform_binary_sha256": {
+    "emery": "3d05d50c674290bd252c5c0e850f7797c08f2ccd22c7f4810469e3dea2ac1769",
+    "chalk": "fcf438ce919ce3d0f38681ad36c979a15067cb8d21a9ad736a4bcd59b6369674",
+    "gabbro": "241836b01285246fa857ba9eb60f7874826eb024a90802a5b11522acd20a6868"
+  },
+  "app_id": "dfe5a3d1e2e44b5ebec727a7",
+  "screenshots": [
+    "/Users/danielbally/Git/rally-watch/media/store/round-update/chalk_01_round.png",
+    "/Users/danielbally/Git/rally-watch/media/store/round-update/chalk_02_round.png",
+    "/Users/danielbally/Git/rally-watch/media/store/round-update/gabbro_01_round.png",
+    "/Users/danielbally/Git/rally-watch/media/store/round-update/gabbro_02_round.png"
+  ],
+  "screenshot_sha256": {
+    "chalk_01_round.png": "6cfcf353e2da9279bc8c34b40b82c53e7295dffd2d815c086ddcdd05bb172e48",
+    "chalk_02_round.png": "a91d89ccce7cfe6a3a3da4f511b0a07f826c33addbf1556df8abc3afadbcfaa1",
+    "gabbro_01_round.png": "2e992b2150e6fef73d8e2da85bd53f528a78b3cf1da3fbfec39bbf323bd91f77",
+    "gabbro_02_round.png": "66aea63fc674d86fbb37aa055b5a82c22dbf1d3128c20eeaaf3ee21c659c84ef"
+  },
+  "release_notes": "Native layouts for original Time Round (180x180) and Round 2 (260x260). Preserves the Time 2 design and existing settings."
+}
